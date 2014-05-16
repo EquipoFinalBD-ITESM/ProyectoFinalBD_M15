@@ -1,0 +1,22 @@
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\bin\Debug\WFA_InterfazProyectoFinal.exe
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\bin\Debug\WFA_InterfazProyectoFinal.pdb
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.CargarArchivos.resources
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.Form1.resources
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.Form2.resources
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.Properties.Resources.resources
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.csproj.GenerateResource.Cache
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.exe
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.pdb
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.AnalisisdeBusqueda.resources
+C:\Users\KariHR\Documents\ProyectoFinal_BD\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\bin\Debug\WFA_InterfazProyectoFinal.exe
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\bin\Debug\WFA_InterfazProyectoFinal.pdb
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.AnalisisdeBusqueda.resources
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.CargarArchivos.resources
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.Form1.resources
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.Form2.resources
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.Properties.Resources.resources
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.csproj.GenerateResource.Cache
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.exe
+C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.pdb
