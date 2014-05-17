@@ -50,10 +50,59 @@ namespace WFA_InterfazProyectoFinal
 
         private void btnExaminarArchivo1_Click(object sender, EventArgs e)
         {
+
             OpenFileDialog openFileDialogAPG = new OpenFileDialog();
             if (openFileDialogAPG.ShowDialog() == DialogResult.OK)
             {
-                string filepathAPG = openFileDialogAPG.FileName, Datos;
+                string filepathAPG = openFileDialogAPG.FileName, aux;
+                bool tituloColumnas = false;
+                int columClave = 0, columNombreMateria = 0;
+                var reader = new StreamReader(File.OpenRead(filepathAPG));
+                List<string> listInicial = new List<string>();
+                List<string> listClave = new List<string>();
+                List<string> listNombreMateria = new List<string>();
+
+                while (!reader.EndOfStream)
+                {
+                    var line = reader.ReadLine();
+                    var values = line.Split(';');
+                    if (tituloColumnas == false)
+                    {
+                        for (int i = 0; i < values.Count(); i++)
+                        {
+                            if (values[i].Contains("Clave"))
+                                columClave = i;
+                            else if (values[i].Contains("Materia"))
+                            {
+                                columNombreMateria = i;
+                                tituloColumnas = true;
+                                break;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        aux = values[columClave] + ";" + values[columNombreMateria];
+                        listInicial.Add(aux);  
+                    }
+                }
+                listInicial = listInicial.Distinct().ToList();
+
+                for(int i=0; i<listInicial.Count();i++)
+                {
+                    var line = listInicial[i];
+                    var values = line.Split(';');
+                    listClave.Add(values[0]);
+                    listNombreMateria.Add(values[1]);
+                }
+
+
+
+
+                 MessageBox.Show("Archivo cargado correctamente");
+
+                /*
+                string filepathAPG = openFileDialogAPG.FileName;
                 bool tituloColumnas = false;
                 int columGrupo = 0, columCRN = 0, columClave = 0, columMateria = 0, columLu = 0, columMa = 0, columMi = 0, columJu = 0, columVi = 0, columSa = 0, columInicio = 0, columFin = 0, columNomina = 0, columNombreDelProfesor = 0;
                 var reader = new StreamReader(File.OpenRead(filepathAPG));
@@ -121,6 +170,9 @@ namespace WFA_InterfazProyectoFinal
                     }
                  }
                 MessageBox.Show("Archivo cargado correctamente");
+            }*/
+
+
             }
         }
     }
