@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using System.IO;
 using MySql.Data.MySqlClient;
 using System.Data.OleDb;
-using System.ComponentModel;
+//using System.ComponentModel;
 
 namespace WFA_InterfazProyectoFinal
 {
