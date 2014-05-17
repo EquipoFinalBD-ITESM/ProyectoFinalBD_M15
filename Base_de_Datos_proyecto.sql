@@ -13,12 +13,13 @@ DROP TABLE IF EXISTS `proyecto_final_bd`.`ALUMNOS` ;
 
 CREATE TABLE IF NOT EXISTS `proyecto_final_bd`.`ALUMNOS` (
   `matricula` VARCHAR(9) NOT NULL,
+  `id` INT UNSIGNED NULL AUTO_INCREMENT,
   `nombre` VARCHAR(50) NULL,
   `apellidoP` VARCHAR(50) NULL,
   `apellidoM` VARCHAR(50) NULL,
   `semestre` TINYINT NULL,
   `carrera` VARCHAR(7) NULL,
-  PRIMARY KEY (`matricula`),
+  PRIMARY KEY (`id`, `matricula`),
   UNIQUE INDEX `matricula_UNIQUE` (`matricula` ASC))
 ENGINE = InnoDB;
 
@@ -59,7 +60,7 @@ CREATE TABLE IF NOT EXISTS `proyecto_final_bd`.`GRUPOS` (
   `ciclo` VARCHAR(4) NULL,
   `num_grupo` SMALLINT NULL,
   `clave` VARCHAR(7) NOT NULL,
-  PRIMARY KEY (`id`, `clave`),
+  PRIMARY KEY (`id`),
   UNIQUE INDEX `id_UNIQUE` (`id` ASC),
   INDEX `fk_GRUPOS_MATERIAS1_idx` (`clave` ASC),
   CONSTRAINT `fk_GRUPOS_MATERIAS1`
@@ -94,30 +95,6 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `proyecto_final_bd`.`ALUMNOS_has_GRUPO`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `proyecto_final_bd`.`ALUMNOS_has_GRUPO` ;
-
-CREATE TABLE IF NOT EXISTS `proyecto_final_bd`.`ALUMNOS_has_GRUPO` (
-  `ALUMNOS_matricula` VARCHAR(9) NOT NULL,
-  `GRUPO_id` INT NOT NULL,
-  PRIMARY KEY (`ALUMNOS_matricula`, `GRUPO_id`),
-  INDEX `fk_ALUMNOS_has_GRUPO_GRUPO1_idx` (`GRUPO_id` ASC),
-  INDEX `fk_ALUMNOS_has_GRUPO_ALUMNOS_idx` (`ALUMNOS_matricula` ASC),
-  CONSTRAINT `fk_ALUMNOS_has_GRUPO_ALUMNOS`
-    FOREIGN KEY (`ALUMNOS_matricula`)
-    REFERENCES `proyecto_final_bd`.`ALUMNOS` (`matricula`)
-    ON DELETE CASCADE
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_ALUMNOS_has_GRUPO_GRUPO1`
-    FOREIGN KEY (`GRUPO_id`)
-    REFERENCES `proyecto_final_bd`.`GRUPOS` (`id`)
-    ON DELETE CASCADE
-    ON UPDATE CASCADE)
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
 -- Table `proyecto_final_bd`.`GRUPO_has_PROFESORES`
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `proyecto_final_bd`.`GRUPO_has_PROFESORES` ;
@@ -138,6 +115,31 @@ CREATE TABLE IF NOT EXISTS `proyecto_final_bd`.`GRUPO_has_PROFESORES` (
     REFERENCES `proyecto_final_bd`.`PROFESORES` (`nomina`)
     ON DELETE CASCADE
     ON UPDATE CASCADE)
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `proyecto_final_bd`.`GRUPOS_has_ALUMNOS`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `proyecto_final_bd`.`GRUPOS_has_ALUMNOS` ;
+
+CREATE TABLE IF NOT EXISTS `proyecto_final_bd`.`GRUPOS_has_ALUMNOS` (
+  `GRUPOS_id` INT NOT NULL,
+  `ALUMNOS_id` INT UNSIGNED NOT NULL,
+  `ALUMNOS_matricula` VARCHAR(9) NOT NULL,
+  PRIMARY KEY (`GRUPOS_id`, `ALUMNOS_id`, `ALUMNOS_matricula`),
+  INDEX `fk_GRUPOS_has_ALUMNOS_ALUMNOS1_idx` (`ALUMNOS_id` ASC, `ALUMNOS_matricula` ASC),
+  INDEX `fk_GRUPOS_has_ALUMNOS_GRUPOS1_idx` (`GRUPOS_id` ASC),
+  CONSTRAINT `fk_GRUPOS_has_ALUMNOS_GRUPOS1`
+    FOREIGN KEY (`GRUPOS_id`)
+    REFERENCES `proyecto_final_bd`.`GRUPOS` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_GRUPOS_has_ALUMNOS_ALUMNOS1`
+    FOREIGN KEY (`ALUMNOS_id` , `ALUMNOS_matricula`)
+    REFERENCES `proyecto_final_bd`.`ALUMNOS` (`id` , `matricula`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
 

@@ -20,3 +20,5 @@ C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFi
 C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.csproj.GenerateResource.Cache
 C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.exe
 C:\Users\Gaby Aguilar\Documents\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.pdb
+C:\Users\Gaby Aguilar\Documents\GitHub\ProyectoFinalBD_M15\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.exe
+C:\Users\Gaby Aguilar\Documents\GitHub\ProyectoFinalBD_M15\WFA_InterfazProyectoFinal\WFA_InterfazProyectoFinal\obj\x86\Debug\WFA_InterfazProyectoFinal.pdb
