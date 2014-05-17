@@ -175,5 +175,10 @@ namespace WFA_InterfazProyectoFinal
 
             }
         }
+
+        private void btnExaminarArchivo2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
