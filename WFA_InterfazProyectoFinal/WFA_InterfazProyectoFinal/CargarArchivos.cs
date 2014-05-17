@@ -7,7 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
-using System.Data.SqlClient;
+using MySql.Data.MySqlClient;
+using System.Data.OleDb;
+using Excel = Microsoft.Office.Interop.Excel;
+using System.ComponentModel;
 
 namespace WFA_InterfazProyectoFinal
 {
@@ -173,6 +176,110 @@ namespace WFA_InterfazProyectoFinal
             }*/
 
 
+            }
+        }
+
+        private void btnExaminarArchivo2_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialogCal = new OpenFileDialog();
+
+            if (openFileDialogCal.ShowDialog() == DialogResult.OK)
+            {
+                string filepathcal = openFileDialogCal.FileName, straux;
+                bool tituloColumnas = false;
+                int columnMatricula = 0, columnNombreAlumno = 0, columnApPaterno = 0, columnApMaterno = 0, columnCRN = 0;
+                var reader = new StreamReader(File.OpenRead(filepathcal));
+
+                List<string> listMatricula = new List<string>();
+                List<string> listNombreAlumno = new List<string>();
+                List<string> listApPaterno = new List<string>();
+                List<string> listApMaterno = new List<string>();
+                List<string> listCRN = new List<string>();
+
+                List<string> aux = new List<string>();
+
+                while (!reader.EndOfStream)
+                {
+                    var line = reader.ReadLine();
+                    var values = line.Split(',');
+                    if (tituloColumnas == false)//Comparación con doble '='
+                    {
+                        for (int i = 0; i < values.Count(); i++)
+                        {
+                            if (values[i].Contains("Matricula"))
+                                columnMatricula = i;
+                            else if (values[i].Contains("Nombre del Alumno"))
+                                columnNombreAlumno = i;
+                            else if (values[i].Contains("Apellido Paterno"))
+                                columnApMaterno = i;
+                            else if (values[i].Contains("Apellido Materno"))
+                                columnApPaterno = i;
+                            else if (values[i].Contains("CRN"))
+                            {
+                                columnCRN = i;
+                                tituloColumnas = true;
+                                break;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        /* for (int i = 0; i <= 33554; i++)
+                         {
+                             string j = (values[columnMatricula]);
+                             if (j != (values[i]))
+                             {
+                                 listMatricula.Add(values[columnMatricula]);
+                             }
+
+                         }*/
+
+                        straux = values[columnMatricula] + ";" + values[columnNombreAlumno] + ";" + values[columnApPaterno] + ";" + values[columnApMaterno];
+
+                        aux.Add(straux);
+
+                        aux = aux.Distinct().ToList();
+
+
+
+                        /*
+                        listMatricula.Add(values[columnMatricula]);
+                        listNombreAlumno.Add(values[columnNombreAlumno]);
+                        listApPaterno.Add(values[columnApPaterno]);
+                        listApMaterno.Add(values[columnApMaterno]);
+                        */
+                        //listCRN.Add(values[columnCRN]);
+
+
+                    }
+
+
+                }
+
+                for (int i = 0; i < aux.Count(); i++)
+                {
+                    var auxline = aux[i];
+                    var auxvalues = auxline.Split(';');
+                    listMatricula.Add(auxvalues[0]);
+                    listNombreAlumno.Add(auxvalues[1]);
+                    listApPaterno.Add(auxvalues[3]);
+                    listApMaterno.Add(auxvalues[2]);
+                }
+                MessageBox.Show("Archivo cargado correctamente");
+                string MyConString = ("SERVER = localhost;" + "DATABASE = proyecto_final_bd;" + "UID = root;" + "PASSWORD = ;");
+                MySqlConnection connection = new MySqlConnection(MyConString);
+                MySqlCommand command = connection.CreateCommand();
+
+
+                connection.Open();
+                for (int n = 0; n < listMatricula.Count; n++)
+                {
+                    string query = "INSERT INTO alumnos(matricula, nombre, apellidoP, apellidoM) VALUES('" + listMatricula[n] + "','" + listNombreAlumno[n] + "','" + listApPaterno[n] + "','" + listApMaterno[n] + "')";
+                    MySqlCommand cmd = new MySqlCommand(query, connection);
+                    cmd.ExecuteNonQuery();
+                }
+
+                connection.Clone();
             }
         }
     }
