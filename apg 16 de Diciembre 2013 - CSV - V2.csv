@@ -1,0 +1,359 @@
+Departamento;Grupo;A/I;CRN;Clave;Materia;CL;CE;Lu;Ma;Mi;Ju;Vi;Sa;Do;Inicio;Fin;Salon;Nomina;Nombre del profesor;Porcentaje resp.
+LA;1;A;11765;AD1005;Administración e innov en m n;-;-;Lu;;Mi;;;;;7:05;8:25;J-A3 3303;L00969022;Villarreal Quintero Jesús Salvador;100
+LA;2;A;19346;AD1005;Administración e innov en m n;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 3304;L01187062;Braga Gotuzzo Aline;100
+LA;1;A;11857;AD1006;Aprendizaje organiz y admon c;-;-;;Ma;;Ju;;;;9:05;10:25;J-A3 3306;L00289785;Franco González Leticia;100
+LA;1;I;22639;AD1007;Introducción a la carrera LAE;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;23319;AD2001;Técn y mod resolu conflict;-;-;Lu;;Mi;;;;;9:05;10:25;J-CIT SALÓN 2;L01456806;Conde Pérez María Isabel;100
+LA;1;A;11800;AD2002;Arquitec y estruc org;-;-;;Ma;;Ju;;;;7:05;8:25;J-CIT CILE2;L01496208;Hernández Ramírez Victoria;100
+LA;1;A;16741;AD2005;Gestión de rec hum en org;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 3302;L00289785;Franco González Leticia;100
+LA;1;A;11703;AD2011;Innovación, mercados y des tec;-;-;Lu;;Mi;;;;;9:05;10:25;J-CIT LAB-DISEÑO;L00511337;González Hernández Mario Alain;100
+LA;1;A;21522;AD2012;Prospectiva estratégica de neg;-;-;;Ma;;Ju;;;;10:35;11:55;J-CIT SALÓN 1;L00511337;González Hernández Mario Alain;100
+LA;1;A;11838;AD2013;Admon estrat de proyectos y pr;-;-;;;Mi;;;;;19:05;21:55;J-A3 3301;L01188276;González Resendiz Eric;100
+LA;1;I;11683;AD3000;Empr famil y suces empr;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;16743;AD3001;Administración de servicios;X;-;;;;;;;;:;:;J-A1 ;L01408062;Barba Evia Nora Elena;1
+LA;1;A;16743;AD3001;Administración de servicios;X;-;;;;;;;;:;:;J-A1 ;L00268193;Avendaño Alcaraz Jorge Abel;99
+LA;1;A;21523;AD3002;Consultoría administrativa;-;-;;;Mi;;;;;19:05;21:55;J-A3 3304;L00612754;Rodríguez Scalise Ulises;65
+LA;1;A;21523;AD3002;Consultoría administrativa;-;-;;;Mi;;;;;19:05;21:55;J-A3 3304;L01327692;Hernández Calzada Martín Aubert;35
+LA;1;A;21526;AD3003;Seminario de admón estratégica;-;-;;;;;Vi;;;7:05;9:55;J-A3 3307;L01327692;Hernández Calzada Martín Aubert;35
+LA;1;A;21526;AD3003;Seminario de admón estratégica;-;-;;;;;Vi;;;7:05;9:55;J-A3 3307;L00728162;Bernal Ponce José Luis;65
+LA;1;A;11686;AD3017;Empresas familiares y gob corp;-;-;Lu;;;;;;;15:05;17:55;J-A3 3102;L00612754;Rodríguez Scalise Ulises;35
+LA;1;A;11686;AD3017;Empresas familiares y gob corp;-;-;Lu;;;;;;;15:05;17:55;J-A3 3102;L01327692;Hernández Calzada Martín Aubert;65
+LA;1;A;11678;AD3018;Modelos y procesos de planeac;-;-;Lu;;Mi;;;;;10:35;11:55;J-CIT LAB-IDIOMA;L01035055;Tellez Garcia Luz Nazareth;100
+LA;1;I;11816;AD3019;Cultura organizacional e inn t;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;I;11791;AD3020;Diseño y estructuras organiza;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11720;AR1007;Historia arq y ciudad I;-;-;;Ma;;;;;;19:05;21:55;J-A3 3201;L01100776;García Alonso Eduardo Javier;100
+INAR;1;A;11690;AR1010;Historia arq y ciudad II;-;-;;;;Ju;;;;19:05;21:55;J-A3 3102;L01100776;García Alonso Eduardo Javier;100
+INAR;1;A;11755;AR1013;Dibujo;-;-;Lu;;Mi;;;;;7:05;8:55;J-A3 LAB-ARQ;L01450841;Ambrocio Zavala Juan José Guadalupe;100
+INAR;1;A;11734;AR1014;Geometría descriptiva;-;-;;Ma;;;Vi;;;16:05;17:25;J-A3 LAB-ARQ;L01372375;Hernández Quintero Aldo Antonio;100
+INAR;1;A;11732;AR1015;Dibujo arquitectónico;-;-;;Ma;;;Vi;;;17:35;18:55;J-A3 LAB-ARQ;L01372375;Hernández Quintero Aldo Antonio;50
+INAR;1;A;11732;AR1015;Dibujo arquitectónico;-;-;;;;Ju;;;;16:05;16:55;J-A3 LAB-ARQ;L01372375;Hernández Quintero Aldo Antonio;50
+INAR;1;A;11732;AR1015;Dibujo arquitectónico;-;-;;Ma;;;Vi;;;17:35;18:55;J-A3 LAB-ARQ;L01363234;Arellano Uribe José Alfredo;50
+INAR;1;A;11732;AR1015;Dibujo arquitectónico;-;-;;;;Ju;;;;16:05;16:55;J-A3 LAB-ARQ;L01363234;Arellano Uribe José Alfredo;50
+INAR;1;A;11731;AR1016;Geometría aplicada;-;-;Lu;;;Ju;;;;17:35;18:55;J-A3 LAB-ARQ;L01372375;Hernández Quintero Aldo Antonio;100
+INAR;1;A;11751;AR1017;Dibujo computarizado;-;-;Lu;;;Ju;;;;16:05;17:25;J-CIT LAB-DISEÑO;L01413237;Cruz López Perla Berenice;100
+INAR;1;I;11793;AR1018;Teorías de arquitectura y met;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11757;AR2004;Visualización digital;-;-;Lu;;;Ju;;;;17:35;18:55;J-CIT LAB-DISEÑO;L01413237;Cruz López Perla Berenice;100
+INAR;1;I;11775;AR2005;Historia arq y ciudad III;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;19349;AR2007;Historia arq y ciudad IV;-;-;;;;;Vi;;;18:05;20:55;J-A3 3306;L01497156;Sánchez Jaime Ana Cecilia;100
+INAR;1;A;11752;AR2017;Diseño bioclimático;-;-;;Ma;;;Vi;;;16:05;17:25;J-CIT LAB-DISEÑO;L01413237;Cruz López Perla Berenice;100
+INAR;1;I;11729;AR2018;Proyectos I: Casa habitación;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11688;AR2019;Proyectos II: Vivienda colecti;-;-;;;;;Vi;;;10:05;12:55;J-A3 LAB-ARQ;L01388272;Gerloff  Florian Georg Sebastian;100
+INAR;1;A;11688;AR2019;Proyectos II: Vivienda colecti;-;-;;;;;Vi;;;13:05;15:55;J-A3 3201;L01388272;Gerloff  Florian Georg Sebastian;100
+INAR;1;I;11728;AR2020;Instalaciones y sistemas alter;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11727;AR2021;Mater y procedimientos cons II;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 LAB-ARQ;L01389387;Carmona Aparicio Carolina;100
+INAR;1;I;11814;AR2022;Proyectos III: Edificios de ed;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;19345;AR2023;Proyectos constructivos I;-;-;Lu;;;Ju;;;;17:35;18:55;J-CIT BIBLIO-S4;;Tamés;
+INAR;1;A;19345;AR2023;Proyectos constructivos I;-;-;Lu;;;Ju;;;;16:05;17:25;J-A3 3303;;Tamés;
+INAR;1;A;19344;AR2024;Proyectos IV: Edificios comun;-;-;;;Mi;;;;;10:05;11:55;J-A3 3201;L01086264;Martínez López Mauricio;100
+INAR;1;A;19344;AR2024;Proyectos IV: Edificios comun;-;-;;;Mi;;;;;15:05;18:55;J-A3 3201;L01086264;Martínez López Mauricio;100
+INAR;1;A;19938;AT3001;Modelación digital avanzada;-;-;Lu;;Mi;;;;;12:05;13:25;J-CIT LAB-DISEÑO;L01386193;Islas Bechara Miguel Pedro;65
+INAR;1;A;19938;AT3001;Modelación digital avanzada;-;-;Lu;;Mi;;;;;12:05;13:25;J-CIT LAB-DISEÑO;L01182873;Barceló Alonso Grettel;35
+INAR;1;A;11860;BT1002;Genética;-;-;Lu;;;;;;;16:05;18:55;J-A3 3306;L01345389;Nava Díaz Cristian;100
+INAR;1;I;11818;BT1003;Biología molecular;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11760;BT1007;Laboratorio de microbiología;-;-;;Ma;;;;;;17:35;20:25;J-A3 3301;L01456368;Zúñiga Estrada Armida;100
+INAR;1;A;11687;BT2003;Microbiología;-;-;Lu;;;;;;;19:05;21:55;J-A2 2201;L01345389;Nava Díaz Cristian;100
+INAR;1;A;11779;CD1003;Métodos estadísticos para t d;-;-;;Ma;;Ju;;;;9:05;10:25;J-CIT CECII;L01367326;Martínez Lira Gustavo César;100
+INAR;1;A;11741;CD2001;Estadística multivariante;-;-;;Ma;;Ju;;;;12:05;13:25;J-CIT LAB-COMPTO;L01367326;Martínez Lira Gustavo César;100
+INAR;1;A;11843;CD2004;Administración de operaciones;-;-;;Ma;;;;;;19:05;21:55;J-A3 3304;L01188276;González Resendiz Eric;100
+INAR;1;A;11785;CD2006;Pronósticos para la toma de de;-;-;;Ma;;Ju;;;;7:05;8:25;J-CIT CIF;L01367326;Martínez Lira Gustavo César;100
+LA;1;A;11714;CD2007;Modelos cuantitativos y de opt;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 3303;L00545152;Moreno Alfaro Marco Antonio;100
+LA;1;A;11766;CF1008;Información financiera toma de;-;-;Lu;;Mi;;;;;9:05;10:25;J-A3 3301;L00602557;Ramirez Bonilla Rosario;100
+LA;1;A;11715;CF1009;Admon de costos y precios;-;-;Lu;;;Ju;;;;19:05;20:25;J-A3 3301;L01477455;Galindo Hinojosa José de la Cruz;100
+LA;2;A;20838;CF1009;Admon de costos y precios;-;-;Lu;;;Ju;;;;17:35;18:55;J-CIT SALÓN 1;L01477455;Galindo Hinojosa José de la Cruz;100
+LA;1;A;11821;CF1010;Contabilidad y admon de costos;-;-;Lu;;Mi;;;;;7:05;8:25;J-CIT LAB-IDIOMA;L00502286;Briseño Pérez María de Lourdes;100
+LA;1;A;11725;CF1011;Contabilidad administrativa;-;-;Lu;;;Ju;;;;16:05;17:25;J-A2 2106;L01477455;Galindo Hinojosa José de la Cruz;100
+LA;1;I;11868;CF1012;Fundamentos de conta fiscal;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;19350;CF2001;Sistemas de información contab;-;-;Lu;;Mi;;;;;7:35;8:55;J-CIT LAB-COMPTO;L01370668;Rojas Morales Ernesto Javier;100
+LA;1;A;11797;CF2003;Sist de control admin;-;-;;;Mi;;;;;13:05;15:55;J-CIT CILE1;L00612754;Rodríguez Scalise Ulises;100
+LA;1;I;11796;CF2006;Contab int ciclo ope e inver;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11859;CF2007;Cont int ciclo fin y act inf;-;-;;Ma;;Ju;;;;9:05;10:25;J-CIT CILE1;L00602557;Ramirez Bonilla Rosario;100
+LA;1;A;11673;CF2009;Reportes financieros;-;-;;;Mi;;;;;9:05;11:55;J-CIT CILE2;L00612754;Rodríguez Scalise Ulises;100
+LA;1;I;11817;CF2010;Audit de edos finan;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;I;11776;CF2011;Impuestos personas físicas;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;19351;CF2012;Aspec fisc y lab sueld y sal;-;-;;Ma;;Ju;;;;7:05;8:25;J-CIT SALÓN 1;L01389486;Castro Martínez José Luis;100
+LA;1;I;11674;CF2013;Sist plan estrat cont adm;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11812;CF2015;Análisis de la información fin;-;-;Lu;;Mi;;;;;10:35;11:55;J-CIT SALÓN 1;L00602557;Ramirez Bonilla Rosario;100
+LA;1;I;11701;CF2016;Costeo de actividades de p y s;-;-;;;Mi;;Vi;;;7:05;8:25;J-A3 3102;;STAFF;
+LA;1;I;11799;CF2017;Auditoría de estados financie;-;-;;;;;;;;:;:; ;L00739144;Ramírez Vargas Ruperto;100
+LA;1;A;11839;CF2018;Sistemas de información estrat;-;-;;;;;;Sa;;8:05;10:55;J-A3 3304;L00602557;Ramirez Bonilla Rosario;65
+LA;1;A;11839;CF2018;Sistemas de información estrat;-;-;;;;;;Sa;;8:05;10:55;J-A3 3304;L01370668;Rojas Morales Ernesto Javier;35
+LA;2;A;27567;CF2018;Sistemas de información estrat;-;-;;Ma;;;;;;17:35;18:55;J-A3 3302;L01370668;Rojas Morales Ernesto Javier;100
+LA;1;I;11792;CF2019;Control y desarrollo de neg;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;I;11694;CF3002;Contabilidad avanzada;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11851;CF3003;Contabilidad internacional;-;-;Lu;;;Ju;;;;17:35;18:55;J-A3 3305;;STAFF;
+LA;1;A;11852;CF3004;Auditoría integral;-;-;Lu;;Mi;;;;;7:05;8:25;J-CIT CILE1;L00739144;Ramírez Vargas Ruperto;100
+LA;1;A;11681;CF3005;Ética profesional y auditoría;-;-;;;;;Vi;;;7:05;9:55;J-A3 3301;L01328153;Mendoza Moheno Jessica;35
+LA;1;A;11681;CF3005;Ética profesional y auditoría;-;-;;;;;Vi;;;7:05;9:55;J-A3 3301;L01307926;Luna Angeles Flavio;65
+LA;1;A;11684;CF3006;Impuestos internacionales;-;-;Lu;;;Ju;;;;16:05;17:25;J-A2 2105;;STAFF;
+LA;1;A;11826;CF3007;Seminario de inf finan;-;-;;Ma;;;;;;17:35;20:25;J-CIT SALÓN 2;L01328153;Mendoza Moheno Jessica;35
+LA;1;A;11826;CF3007;Seminario de inf finan;-;-;;Ma;;;;;;17:35;20:25;J-CIT SALÓN 2;L01307926;Luna Angeles Flavio;65
+LA;1;A;11790;CF3008;Contabilidad estratégica;-;-;;Ma;;Ju;;;;9:05;10:25;J-A3 3102;L01389486;Castro Martínez José Luis;100
+LA;1;A;24473;CF3018;Impuestos corporativos;-;-;;;;;Vi;;;7:05;9:55;J-CIT SALÓN 2;L01389486;Castro Martínez José Luis;100
+LA;1;I;11795;CF3019;Contabilidad corporativa;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;I;11750;CF3020;Impuestos personales;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;I;11803;CH2007;Gestión del capital humano com;-;-;;;;;;;;:;:; ;;STAFF;
+FHC;1;A;16739;CO1005;Medios, cultura y sociedad;X;-;;;;;;;;:;:;J-A1 ;L01477430;Licona Ramírez Víctor Miguel;1
+FHC;1;A;16739;CO1005;Medios, cultura y sociedad;X;-;;;;;;;;:;:;J-A1 ;L00228098;Márquez de la Garza Myrna Eugenia;99
+INAR;1;A;11708;CV2023;Mater y procedimientos de c I;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 LAB-ARQ;L01389387;Carmona Aparicio Carolina;100
+INAR;1;I;11719;CV2024;Mecánica de estructuras I;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11831;CV2025;Mecánica de estructuras II;-;-;Lu;;Mi;;;;;19:05;20:25;J-A3 3102;L01157008;Espinosa Nieto Luis Manuel;100
+INAR;1;A;19348;CV2026;Sistemas estructurales;-;-;;Ma;;;Vi;;;16:05;17:25;J-A3 3201;L01157008;Espinosa Nieto Luis Manuel;100
+LA;1;A;11789;D1002;Derecho laboral;-;-;;Ma;;Ju;;;;9:05;10:25;J-CIT CIF;L01494641;Merodio Cruz Victoria Ivonne;100
+LA;1;A;11777;D1003;Bienes derec real y suces;-;-;;;;;Vi;;;9:05;11:55;J-A3 3306;L01454926;Martínez Martínez Gerardo;100
+LA;1;I;11716;D1005;Teoría del derecho;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11726;D1007;Teoría general del proceso;-;-;Lu;;;Ju;;;;19:05;20:25;J-A3 3302;L01432922;Fermán Guerrero Saúl;100
+LA;1;A;21276;D1010;Personas y familia;-;-;Lu;;;Ju;;;;19:05;20:25;J-A3 3305;L01431965;Ramírez Vega Carolina;100
+LA;1;A;11864;D1012;Derecho constitucional;-;-;Lu;;Mi;;;;;9:05;10:25;J-A3 3307;L01391342;Arroyo González Raúl;100
+LA;1;I;11832;D1013;Teoría política del estado;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;I;11828;D1019;Derecho penal;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11840;D1021;Marco legal de los negocios;-;-;Lu;;;Ju;;;;17:35;18:55;J-A3 3304;L01433672;Flores Molina Arturo;100
+LA;1;A;11858;D1022;Derecho empresarial y prop int;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 3306;L01413286;Barragán Garrido Alejandro;100
+LA;2;A;20839;D1022;Derecho empresarial y prop int;-;-;;Ma;;Ju;;;;10:35;11:55;J-A3 3302;L01413286;Barragán Garrido Alejandro;100
+LA;1;I;11837;D1023;Derecho romano;-;-;;;;;;;;:;:; ;L00602573;Menes Llaguno Juan Manuel;100
+LA;1;A;21277;D2006;Investig y análisis jurídicos;-;-;;Ma;Mi;;;;;19:05;20:25;J-A2 2104;L01431965;Ramírez Vega Carolina;100
+LA;1;A;21273;D2009;Derechos fundamentales;-;-;Lu;;Mi;;;;;7:05;8:25;J-CIT LAB-DISEÑO;L01391342;Arroyo González Raúl;100
+LA;1;A;11804;D2013;Derecho de las obligaciones I;-;-;Lu;;Mi;;;;;7:05;8:25;J-CIT CILE3;;STAFF;
+LA;1;A;21274;D2021;Derecho administrativo y p p I;-;-;Lu;;;Ju;;;;17:35;18:55;J-A3 3303;;STAFF;
+LA;1;A;11841;D3017;Derecho procesal civil;-;-;;Ma;Mi;;;;;17:35;18:55;J-CIT CILE1;;STAFF;
+LA;1;A;11764;D3018;Derecho procesal penal;-;-;;Ma;Mi;;;;;19:05;20:25;J-A3 3302;L01407932;Vega Olvera Victor Hugo;100
+INAR;1;A;11756;DL1002;Fundamentos del diseño I;-;-;Lu;;;Ju;;;;19:05;20:55;J-A3 LAB-ARQ;L01359653;Acosta Ruiz Daniel;100
+INAR;1;A;11733;DL1004;Fundamentos del diseño II;-;-;;;Mi;;Vi;;;19:05;20:55;J-A3 LAB-ARQ;L01367243;Avila Hernandez Hector;100
+INAR;1;A;11730;DL1008;Modelos y maquetas;-;-;Lu;;;Ju;;;;16:05;17:25;J-A3 3201;L01359653;Acosta Ruiz Daniel;100
+INAR;1;A;11718;DL1009;Creatividad e innovación;-;-;;;Mi;;;;;7:05;9:55;J-A3 3201;L01086264;Martínez López Mauricio;100
+INAR;1;A;16740;DS1005;Cambio climático y uso de ener;X;-;;;;;;;;:;:;J-A1 ;L00160150;Garza Cuevas Raúl Antonio;50
+INAR;1;A;16740;DS1005;Cambio climático y uso de ener;X;-;;;;;;;;:;:;J-A1 ;L00327635;Delgado Fabián Mónica;50
+LA;1;A;11798;EC1008;Economía de la empresa;-;-;Lu;;Mi;;;;;7:05;8:25;J-CIT CILE2;L00968313;Carrasco Brihuega Gabriel;100
+LA;2;A;20840;EC1008;Economía de la empresa;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3102;L00968313;Carrasco Brihuega Gabriel;100
+LA;1;A;11702;EC1009;Entorno macroeconómico;-;-;Lu;;Mi;;;;;9:05;10:25;J-A3 3102;L01431890;Dorner  Anikó;100
+LA;1;A;11863;EC1010;Economía para la creac de neg;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3307;;STAFF;
+LA;1;A;27056;EM00803;Preincubación;-;-;;;;;Vi;;;12:05;14:55;J-A2 2201;L00674069;Ahued Amado Morun;100
+LA;1;A;27055;EM00804;Incubación I;-;-;;;;;Vi;;;12:05;14:55;J-A3 3302;L00660944;Renteria Nuñez Giselle;100
+LA;1;A;27054;EM00805;Incubación II;-;-;;Ma;;Ju;;;;9:05;10:25;J-CIT CILE2;L00660944;Renteria Nuñez Giselle;100
+LA;1;A;27053;EM00820;Liderazgo empresarial;-;-;;;Mi;;;;;16:05;18:55;J-A3 3301;L01464446;Robles de León Armando;50
+LA;1;A;27053;EM00820;Liderazgo empresarial;-;-;;;Mi;;;;;16:05;18:55;J-A3 3301;L01306282;Castro Cruz José Daniel;50
+LA;1;A;27151;EM00821;Innovación en los negocios;-;-;;;Mi;;;;;16:05;18:55;J-A3 3305;L00612754;Rodríguez Scalise Ulises;100
+LA;1;A;27052;EM00822;Desarrollo de empresas;-;-;;;Mi;;;;;16:05;18:55;J-A3 3306;L01503458;Sánchez Rodríguez Juan Esteban;100
+LA;1;A;27051;EM00823;Gestión de nuevas empresas;-;-;;;Mi;;;;;16:05;18:55;J-A2 2202;L01428771;Gómez Tello Oscar Alejandro;35
+LA;1;A;27051;EM00823;Gestión de nuevas empresas;-;-;;;Mi;;;;;16:05;18:55;J-A2 2202;L01360826;Bustamante Castillo Georgina Raquel;65
+LA;1;I;11685;EM3001;Innovación y gener de empr;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;27057;EM3004;Formación desar lider empren;-;-;;;;;Vi;;;9:05;11:55;J-CIT CILE1;L00660944;Renteria Nuñez Giselle;100
+INAR;1;I;17171;EP95001;Escuela práctica I;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11784;ES3000;Planeación microemp desar soc;-;-;;Ma;;Ju;;;;10:35;11:55;J-CIT CILE1;L00660944;Renteria Nuñez Giselle;50
+LA;1;A;11784;ES3000;Planeación microemp desar soc;-;-;;Ma;;Ju;;;;10:35;11:55;J-CIT CILE1;L01408062;Barba Evia Nora Elena;50
+INAR;1;A;11709;F1001;Introducción a la física;-;-;Lu;;Mi;;;;;7:05;8:25;J-A3 3301;L01514851;Jiménez Hernández Aarón;100
+INAR;1;A;11721;F1002;Física I;-;-;Lu;;Mi;;;;;7:05;8:25;J-A3 3302;L01390922;Angeles Islas Jorge Fernando;100
+INAR;1;A;11721;F1002;Física I;-;-;;;;;Vi;;;7:05;7:55;J-A3 3302;L01390922;Angeles Islas Jorge Fernando;100
+INAR;1;A;11845;F1003;Física II;-;-;Lu;;Mi;;Vi;;;9:05;10:25;J-A3 3305;L01390922;Angeles Islas Jorge Fernando;100
+INAR;2;A;24476;F1003;Física II;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3201;L01390922;Angeles Islas Jorge Fernando;100
+INAR;2;A;24476;F1003;Física II;-;-;;;;;Vi;;;8:05;8:55;J-A3 3201;L01390922;Angeles Islas Jorge Fernando;100
+INAR;1;A;11853;F1005;Electricidad y magnetismo;-;-;Lu;;Mi;;Vi;;;7:05;8:25;J-A3 3306;L01327866;Becerra Domínguez Osbaldo;100
+LA;1;A;11712;FZ1005;Matemáticas financieras;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3301;L00739144;Ramírez Vargas Ruperto;100
+LA;1;A;11810;FZ1006;Finanzas personales y empr;-;-;;;Mi;;Vi;;;7:05;8:25;J-CIT SALÓN 1;L01510677;Ortega Hernández José Lucio;100
+LA;1;A;11813;FZ2004;Eval proy y valuación empresas;-;-;Lu;;;Ju;;;;17:35;18:55;J-A2 2103;L00331215;Flores Rivera Ciro Filemón;100
+LA;1;A;11762;FZ2005;Fuentes de financiamiento;-;-;;;;;;Sa;;11:00;13:50;J-A3 3302;L01406702;Sinde Riestra Serafín Ramón;100
+LA;1;A;11761;FZ2006;Mercado de dinero y capitales;-;-;;;;;;Sa;;8:05;10:55;J-A3 3301;L01406702;Sinde Riestra Serafín Ramón;100
+LA;1;I;11822;FZ2007;Finanzas corporativas;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;I;11830;FZ2015;Estructura financiera y gob c;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;I;11680;FZ2016;Evaluación de proyectos y f f;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11763;FZ3005;Finanzas internacionales;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3305;;STAFF;
+LA;1;A;19936;FZ3008;Administración de inversiones;-;-;;;;;;Sa;;14:05;16:55;J-A3 3302;L01406702;Sinde Riestra Serafín Ramón;100
+LA;1;A;16746;FZ3012;Seminario de finanzas;X;-;;;;;;;;:;:;J-A1 ;L00803171;Vázquez Alanís Gregorio;24
+LA;1;A;16746;FZ3012;Seminario de finanzas;X;-;;;;;;;;:;:;J-A1 ;L01503441;Hernández Batres Jessica Sarai;1
+LA;1;A;16746;FZ3012;Seminario de finanzas;X;-;;;;;;;;:;:;J-A1 ;L00221655;Moska Arreola Daniel;75
+LA;1;I;11801;FZ3013;Ingeniería financiera;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11693;FZ3027;Valu de instrumentos derivados;-;-;Lu;;;Ju;;;;17:35;18:55;J-A2 2202;L01510677;Ortega Hernández José Lucio;100
+LEX;1;A;11655;H1001;Inglés remedial I;-;-;Lu;Ma;Mi;Ju;;;;12:05;13:25;J-A3 3301;L01498196;Hernández Diazgirón Yuriria;100
+LEX;1;A;11656;H1002;Inglés remedial II;-;-;Lu;Ma;Mi;Ju;;;;12:05;13:25;J-A3 3302;;STAFF;
+LEX;2;A;11657;H1002;Inglés remedial II;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-A3 3302;;STAFF;
+LEX;1;A;11658;H1003;Inglés remedial III;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-A3 3301;L01498196;Hernández Diazgirón Yuriria;100
+LEX;2;I;11659;H1003;Inglés remedial III;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-A3 3301;;STAFF;
+LEX;1;A;11660;H1004;Inglés remedial IV;-;-;Lu;Ma;Mi;Ju;;;;12:05;13:25;J-A3 3303;;STAFF;
+LEX;2;A;11661;H1004;Inglés remedial IV;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-A3 3303;;STAFF;
+LEX;3;I;11662;H1004;Inglés remedial IV;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-A3 3303;;STAFF;
+LEX;1;A;11663;H1005;Inglés remedial V;-;-;Lu;Ma;Mi;Ju;;;;12:05;13:25;J-A3 3304;L01140715;Borreye  Orla Juliette;100
+LEX;2;A;11664;H1005;Inglés remedial V;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-A3 3304;L01140715;Borreye  Orla Juliette;100
+LEX;3;A;11665;H1005;Inglés remedial V;-;-;Lu;Ma;Mi;Ju;;;;12:05;13:25;J-A3 3305;L01371971;Hernández Vazquez Nelson Antonio;100
+LEX;4;A;11666;H1005;Inglés remedial V;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-A3 3305;L01371971;Hernández Vazquez Nelson Antonio;100
+FHC;1;A;11713;H1015;Fundamentos de la escritura;-;-;Lu;;Mi;;Vi;;;10:35;11:55;J-A3 3301;L01491431;Romano Obregón Julio;100
+FHC;1;A;11836;H1018;Ética, persona y sociedad;-;-;;Ma;;Ju;;;;10:35;11:55;J-A3 3304;L01389130;Cortés Hernández Bertha Marisol;100
+FHC;2;A;16742;H1018;Ética, persona y sociedad;X;-;;;;;;;;:;:;J-A1 ;L00425710;Aragón Salazar Walkyria;100
+FHC;3;A;20098;H1018;Ética, persona y sociedad;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 3102;L01477430;Licona Ramírez Víctor Miguel;100
+FHC;1;A;11676;H1036;Escritura creativa;-;-;Lu;;;;;;;16:05;18:55;J-A2 2102;L01477448;Martínez Gayón Diego José;100
+FHC;1;A;16744;H1039;Sistemas de creencias y global;X;-;;;;;;;;:;:;J-A1 ;L00241786;de Gasperín Gasperín Rafael Modesto;99
+FHC;1;A;16744;H1039;Sistemas de creencias y global;X;-;;;;;;;;:;:;J-A1 ;L01477430;Licona Ramírez Víctor Miguel;1
+FHC;1;A;11835;H1040;Análisis y expresión verbal;-;-;Lu;;Mi;;Vi;;;9:05;10:25;J-A3 3304;L00428813;Rivera Montiel Teresa;100
+FHC;2;A;16745;H1040;Análisis y expresión verbal;X;-;;;;;;;;:;:;J-A1 ;L00176289;Sáenz Jiménez María Dolores;99
+FHC;2;A;16745;H1040;Análisis y expresión verbal;X;-;;;;;;;;:;:;J-A1 ;L00428813;Rivera Montiel Teresa;1
+FHC;3;A;20097;H1040;Análisis y expresión verbal;-;-;Lu;;Mi;;Vi;;;10:35;11:55;J-CIT SALÓN 2;L00428813;Rivera Montiel Teresa;100
+FHC;1;A;11677;H1044;Apreciación musical I;-;-;;;;Ju;;;;16:05;18:55;J-A2 2102;L01457291;Orozco Hernández Marco Antonio;100
+FHC;1;A;11825;H2001;Expr verbal en ámbito profes;-;-;;Ma;;;Vi;;;16:05;17:25;J-CIT SALÓN 2;L01491431;Romano Obregón Julio;100
+FHC;2;A;19347;H2001;Expr verbal en ámbito profes;-;-;;Ma;;Ju;;;;9:05;10:25;J-CIT LAB-IDIOMA;L00428813;Rivera Montiel Teresa;100
+FHC;1;A;11682;H2002;Ética, profesión y ciudadanía;-;-;;Ma;;;;;;19:05;21:55;J-A2 2103;L01477430;Licona Ramírez Víctor Miguel;100
+FHC;2;A;16750;H2002;Ética, profesión y ciudadanía;X;-;;;;;;;;:;:;J-A1 ;L00715946;Ayala Enriquez Pablo;100
+FHC;1;A;16747;H2004;Ciudadanía: práctica pol y soc;X;-;;;;;;;;:;:;J-A1 ;L00725382;Flores Quintero Genoveva;50
+FHC;1;A;16747;H2004;Ciudadanía: práctica pol y soc;X;-;;;;;;;;:;:;J-A1 ;L00606327;Gallart de la Torre Alfredo Ernesto;50
+FHC;1;A;20096;H2006;Literatura contemporánea y soc;X;-;;;;;;;;:;:;J-A1 ;L01019240;Mondragón Santoyo María Cristina;100
+FHC;1;A;23320;H2007;Ciencia, tecnología y sociedad;X;-;;;;;;;;:;:;J-A1 ;L01236364;Esparza Parga Rodrigo;100
+FHC;1;A;11692;H2027;Responsab social y ciudadanía;-;-;;;;Ju;;;;16:05;18:55;J-A2 2201;L01138420;Gil García Carlos;100
+LEX;1;A;11671;HI1001;Inglés académico avanzado;-;-;Lu;Ma;;Ju;;;;12:05;13:25;J-A3 3306;L01090985;Bell  Michele Adele;100
+LEX;2;A;11672;HI1001;Inglés académico avanzado;-;-;Lu;Ma;;Ju;;;;13:35;14:55;J-A3 3306;L01090985;Bell  Michele Adele;100
+LEX;1;A;11667;HI95805;Inglés académico;-;-;Lu;Ma;Mi;Ju;;;;12:05;13:25;J-A3 3102;L01475020;Noguera Chávez Ariok Eliezer;100
+LEX;2;A;11668;HI95805;Inglés académico;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-A3 3102;L01475020;Noguera Chávez Ariok Eliezer;100
+LEX;3;A;11669;HI95805;Inglés académico;-;-;Lu;Ma;Mi;Ju;;;;12:05;13:25;J-CIT SALÓN 2;;STAFF;
+LEX;4;A;11670;HI95805;Inglés académico;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-CIT SALÓN 2;;STAFF;
+INAR;1;A;11824;IB2001;Ciencia, tec y desa sostenible;-;-;Lu;;;Ju;;;;16:05;17:25;J-CIT SALÓN 2;L01474940;Cornejo Oviedo Flora María;100
+INAR;1;I;17173;IN00803;An empre, admón y factde proy;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11675;IN1002;Lab de ingeniería de sistemas;-;-;Lu;;;;;;;17:35;20:25;J-A2 2101;L01516161;Guzmán Núñez Gerardo;100
+INAR;1;A;11849;IN2004;Control estadíst de la calidad;-;-;;Ma;;;;;;17:35;20:25;J-A3 3305;L00371237;Guadarrama Zamora Raúl Bernardo;100
+INAR;1;I;11697;IN2010;Gestión de abastec e invent;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11707;IN2011;Ingeniería estadística;-;-;;Ma;;;Vi;;;19:05;20:25;J-A3 3102;L01389585;García González Pablo Josue;100
+INAR;1;I;11743;IN2012;Investigación de operac II;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11806;IN2014;Sistemas de información;-;-;Lu;;Mi;;;;;7:05;8:25;J-CIT SALÓN 2;L01406546;Ramírez Mejía Alfredo Israel;100
+INAR;1;A;11842;IN2017;Diseño de instalaciones y man;-;-;;;;Ju;;;;16:05;18:55;J-A3 3302;L01516161;Guzmán Núñez Gerardo;100
+INAR;1;A;11787;IN2018;Diseño del trabajo;-;-;Lu;;Mi;;;;;10:35;11:55;J-CIT CIF;L01117069;Franklin Uraga Juan José;100
+INAR;1;A;11867;IN2019;Laboratorio de metrología;-;-;Lu;;;;;;;17:35;20:25;J-A3 3307;L01327866;Becerra Domínguez Osbaldo;100
+INAR;2;A;17170;IN2019;Laboratorio de metrología;-;-;;Ma;;;;;;17:35;20:25;J-A3 3306;L01456202;de Alba Molina Ricardo Alejandro;100
+INAR;1;I;11689;IN2020;Administración de inventarios;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11850;IN2021;Admon de la producción;-;-;;;;;Vi;;;17:35;20:25;J-A3 3305;L00937854;Arriaga Martínez Antonio Alejandro;100
+INAR;1;A;11827;IN2022;Modelos de optimización;-;-;Lu;;Mi;;;;;9:05;10:25;J-CIT CECII;L00331215;Flores Rivera Ciro Filemón;100
+INAR;1;A;11747;IN2023;Diseño y análisis de exp;-;-;;Ma;;Ju;;;;9:05;10:25;J-CIT LAB-DISEÑO;L01117069;Franklin Uraga Juan José;100
+INAR;1;A;11704;IN2024;Modelos para la toma de dec;-;-;;Ma;;;Vi;;;16:05;17:25;J-A3 3301;L00331215;Flores Rivera Ciro Filemón;100
+INAR;1;A;21527;IN2025;Evaluación y admon de proyect;-;-;;Ma;;Ju;;;;12:05;13:25;J-A3 3201;L00331215;Flores Rivera Ciro Filemón;100
+INAR;1;A;23718;IN3004;Diseño asistido por computador;-;-;;Ma;;Ju;;;;12:05;13:25;J-CIT LAB-DISEÑO;L01390930;Sánchez Zamora Nereo;100
+INAR;1;I;11781;IN3011;Ingeniería económica;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11705;IN3013;Lab sistemas integ manufact;-;-;;;Mi;;;;;9:05;11:55;J-A3 LFQ;L01416511;Ortega Guerrero Leslie;100
+INAR;1;A;11742;IN3014;Simulación;-;-;;;;;Vi;;;9:05;11:55;J-CIT LAB-COMPTO;L00331215;Flores Rivera Ciro Filemón;100
+INAR;1;A;11749;IN3015;Sist integrados de manufactura;-;-;;;Mi;;;;;12:05;14:55;J-CIT LAB-COMPTO;L01390930;Sánchez Zamora Nereo;100
+INAR;1;I;11805;IN3016;Estrategias de manufactura;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11802;IN3017;Lab de diseño y optim de opera;-;-;Lu;;;;;;;7:35;10:25;J-CIT SALÓN 1;L01464446;Robles de León Armando;100
+INAR;1;A;22641;IN3018;Metod diseño y mejora proc;X;-;;;;;;;;:;:;J-A1 ;L01391094;Carrillo Medina Salvador;1
+INAR;1;A;22641;IN3018;Metod diseño y mejora proc;X;-;;;;;;;;:;:;J-A1 ;L00226159;Caffarel Rodríguez Graciela;50
+INAR;1;A;22641;IN3018;Metod diseño y mejora proc;X;-;;;;;;;;:;:;J-A1 ;L00229930;Ruiz Cantisani María Ileana;49
+INAR;1;A;11780;IN3019;Admón de la tecnología;-;-;Lu;;Mi;;;;;10:35;11:55;J-CIT CECII;L00511337;González Hernández Mario Alain;100
+INAR;2;A;24474;IN3019;Admón de la tecnología;X;-;;;;;;;;:;:;J-A1 ;L00009365;Peña Romero Emilio;100
+INAR;1;I;11856;IN3020;Planeación estratégica;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11808;IN3021;Proyecto empresarial;-;-;Lu;;;;;;;16:05;18:55;J-A3 3302;L00511337;González Hernández Mario Alain;100
+INAR;1;A;11772;IN3022;Sistemas de calidad;X;-;;;;;;;;:;:;J-A3 ;L00486910;Tamayo Enríquez Francisco Alberto;99
+INAR;1;A;11772;IN3022;Sistemas de calidad;X;-;;;;;;;;:;:;J-A3 ;L01391094;Carrillo Medina Salvador;1
+INAR;1;A;11691;IN3023;Sistemas logísticos;-;-;Lu;;;;;;;19:05;21:55;J-A3 3306;L01389585;García González Pablo Josue;100
+INAR;1;A;11706;IN3035;Análisis y mejoramiento de sis;-;-;;;;;Vi;;;17:35;20:25;J-A3 3304;L01457176;Herrera Pérez Jesús Gustavo;100
+INAR;1;A;16736;IN3047;Metodología Lean Six Sigma;X;-;;;;;;;;:;:;J-A1 ;L01416511;Ortega Guerrero Leslie;1
+INAR;1;A;16736;IN3047;Metodología Lean Six Sigma;X;-;;;;;;;;:;:;J-A1 ;L01201756;Montgomery  Douglas;99
+INAR;1;A;16737;IN3048;Herram para Lean Six Sigma;X;-;;;;;;;;:;:;J-A1 ;L01416511;Ortega Guerrero Leslie;1
+INAR;1;A;16737;IN3048;Herram para Lean Six Sigma;X;-;;;;;;;;:;:;J-A1 ;L00447409;Tijerina Aguilera Jacobo;99
+INAR;1;I;17172;IN95057;Manu asistida por computadora;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11819;IQ1001;Balance de materia;-;-;;Ma;;;Vi;;;16:05;17:25;J-A3 3304;L01505578;Ortega Pérez Paloma;100
+INAR;1;I;11768;IQ2000;Balance de energía;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;I;11820;IQ2001;Termodinámica;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11848;M1003;Estática;-;-;;Ma;;;Vi;;;16:05;17:25;J-A3 3305;L00763078;Ramirez Vargas Ignacio;100
+INAR;2;A;24475;M1003;Estática;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3303;L00728162;Bernal Ponce José Luis;100
+INAR;1;A;11744;M1006;Dibujo computarizado;-;-;;;;Ju;;;;16:05;18:55;J-CIT LAB-COMPTO;L01390930;Sánchez Zamora Nereo;100
+INAR;1;A;11866;M2024;Procesos de manufactura;-;-;;Ma;;Ju;;;;10:35;11:55;J-A3 3307;L01390930;Sánchez Zamora Nereo;100
+INAR;2;A;24477;M2024;Procesos de manufactura;-;-;;Ma;;;;;;17:35;20:25;J-CIT SALÓN 1;L01390930;Sánchez Zamora Nereo;100
+INAR;1;A;11786;M2025;Métodos numéricos en ing;-;-;;Ma;;Ju;;;;7:35;8:55;J-CIT LAB-IDIOMA;L01408070;Reséndiz Rosas Celerino;100
+INAR;1;A;11723;MA1001;Introducción a las matemáticas;-;-;Lu;Ma;Mi;Ju;Vi;;;9:05;10:25;J-A3 3302;L01456202;de Alba Molina Ricardo Alejandro;100
+INAR;2;A;11767;MA1001;Introducción a las matemáticas;-;-;Lu;Ma;Mi;Ju;Vi;;;9:05;10:25;J-A3 3303;L01505578;Ortega Pérez Paloma;100
+INAR;1;A;11700;MA1006;Probabilidad y estadística;-;-;;Ma;;Ju;;;;10:35;11:55;J-A3 3301;L00640011;Salas Cuevas Armando;100
+INAR;1;A;11710;MA1008;Estadística investig cienc soc;-;-;;Ma;;Ju;;;;10:35;11:55;J-A3 3303;L01367326;Martínez Lira Gustavo César;100
+INAR;1;A;11722;MA1009;Matemáticas para el diseño;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3302;L01369306;Trejo Macotela Francisco Rafael;100
+INAR;1;A;11834;MA1015;Matemáticas I;-;-;;Ma;;Ju;;;;9:05;10:25;J-A3 3304;L00545152;Moreno Alfaro Marco Antonio;100
+INAR;1;A;20527;MA1016;Matemáticas I;-;-;;Ma;;Ju;;;;10:35;11:55;J-A3 3305;L00969022;Villarreal Quintero Jesús Salvador;65
+INAR;1;A;20527;MA1016;Matemáticas I;-;-;;Ma;;Ju;;;;10:35;11:55;J-A3 3305;L00545152;Moreno Alfaro Marco Antonio;35
+INAR;1;A;11711;MA1017;Matemáticas II;-;-;;Ma;;Ju;;;;9:05;10:25;J-A3 3301;;Pendiente;
+INAR;2;A;24469;MA1017;Matemáticas II;-;-;;Ma;;Ju;;;;10:35;11:55;J-CIT SALÓN 2;;Pendiente;
+INAR;1;A;11854;MA1018;Matemáticas II;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3306;L00640011;Salas Cuevas Armando;100
+INAR;1;I;11846;MA1019;Álgebra lineal;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11855;MA1020;Estadística I;-;-;Lu;;Mi;;;;;9:05;10:25;J-A3 3306;L01117069;Franklin Uraga Juan José;100
+INAR;1;A;11847;MA2009;Matemáticas III;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 3305;L00763078;Ramirez Vargas Ignacio;100
+INAR;1;A;11699;MA2010;Ecuaciones diferenciales;-;-;Lu;;Mi;;;;;9:05;10:25;J-CIT CILE3;L00763078;Ramirez Vargas Ignacio;100
+INAR;1;A;11809;MA2011;Estadística II;-;-;;Ma;;Ju;;;;9:05;10:25;J-CIT SALÓN 1;L00640011;Salas Cuevas Armando;100
+LA;1;A;;MT00882;Seminario de mercadotecnia;-;-;Lu;;Mi;;;;;7:05;8:25;J-CIT SALA1;;STAFF;
+LA;1;A;11829;MT1003;Mercadotecnia y creatividad;-;-;;Ma;;Ju;;;;19:05;20:25;J-A3 3303;L00691899;Hernández Carrasco Alma Rosa;100
+LA;1;A;16748;MT2005;Admón y procesos de ventas;X;-;;;;;;;;:;:;J-A1 ;L00241885;Sepúlveda Martínez César Javier;99
+LA;1;A;16748;MT2005;Admón y procesos de ventas;X;-;;;;;;;;:;:;J-A1 ;L01503441;Hernández Batres Jessica Sarai;1
+LA;1;A;16749;MT2009;Mercadotecnia entre negocios;X;-;;;;;;;;:;:;J-A1 ;L00905349;Villalba Moreno Olivia Yolanda;100
+LA;1;A;23321;MT2012;Inteligencia de mercados;-;-;;Ma;;Ju;;;;7:05;8:25;J-CIT SALÓN 2;L01187062;Braga Gotuzzo Aline;100
+LA;1;A;21524;MT2020;Mercadotecnia estratégica de s;X;-;;;;;;;;:;:;J-A1 ;L00241885;Sepúlveda Martínez César Javier;100
+LA;1;A;22640;NI1001;Empresa, cultura y neg en mund;-;-;Lu;;;Ju;;;;16:05;17:25;J-A3 3305;L01456806;Conde Pérez María Isabel;100
+LA;1;A;11811;NI1002;Técnicas de negociación y com;-;-;;Ma;;Ju;;;;9:05;10:25;J-A3 3305;L01431890;Dorner  Anikó;100
+LA;1;A;21525;NI2014;Ética en los negocios;X;-;;;;;;;;:;:;J-A1 ;L01408062;Barba Evia Nora Elena;1
+LA;1;A;21525;NI2014;Ética en los negocios;X;-;;;;;;;;:;:;J-A1 ;L00586180;Espinoza Sanchez Francisco Alfonso;99
+LA;1;A;11794;NI2017;Int competitiva y geo-economía;-;-;;Ma;;Ju;;;;7:05;8:25;J-CIT CILE1;L00691899;Hernández Carrasco Alma Rosa;100
+LA;1;I;11679;NI2018;Analisis y  adm de cadena de v;-;-;;;;;;;;:;:; ;L00718338;Thierry Aguilera Ricardo;99
+LA;1;I;11679;NI2018;Analisis y  adm de cadena de v;-;-;;;;;;;;:;:; ;L01503441;Hernández Batres Jessica Sarai;1
+LA;2;A;16732;NI2018;Analisis y  adm de cadena de v;X;-;;;;;;;;:;:;J-A1 ;L00718338;Thierry Aguilera Ricardo;99
+LA;2;A;16732;NI2018;Analisis y  adm de cadena de v;X;-;;;;;;;;:;:;J-A1 ;L01503441;Hernández Batres Jessica Sarai;1
+LA;1;A;16733;NI3010;Admón estratégica intern;X;-;;;;;;;;:;:;J-A1 ;L00212019;García Calderón Díaz Luis;50
+LA;1;A;16733;NI3010;Admón estratégica intern;X;-;;;;;;;;:;:;J-A1 ;L00241638;Quiroga Treviño Ana Mariela;49
+LA;1;A;16733;NI3010;Admón estratégica intern;X;-;;;;;;;;:;:;J-A1 ;L01503441;Hernández Batres Jessica Sarai;1
+INAR;1;A;23717;OR00893;Técnicas de consultoría;-;-;;;Mi;;;;;16:05;18:55;J-A3 3304;L00774315;Ramírez Vega Luis Alfonso;100
+INAR;1;A;23719;OR3000;Modelos de mejora empresas;-;-;;;Mi;;;;;19:05;21:55;J-A3 3305;L01086165;Arroyo Herrera Laura Alicia;50
+INAR;1;A;23719;OR3000;Modelos de mejora empresas;-;-;;;Mi;;;;;19:05;21:55;J-A3 3305;L01456459;Ortega García Fernando David;50
+INAR;1;A;23715;OR3002;Implantación de modelos de mej;-;-;;;;;;Sa;;10:05;12:55;J-A3 3307;L01456459;Ortega García Fernando David;50
+INAR;1;A;23715;OR3002;Implantación de modelos de mej;-;-;;;;;;Sa;;10:05;12:55;J-A3 3307;L01086165;Arroyo Herrera Laura Alicia;50
+INAR;1;A;23716;OR3003;Certificac en proces de consul;-;-;;;Mi;;;;;16:05;18:55;J-A3 3303;L00838813;Llanderal Ocampo Iván;100
+LA;1;A;11717;P1002;Fundam ciencia política;-;-;Lu;;;Ju;;;;17:35;18:55;J-A3 3301;L01510693;Zamora Jiménez Juan Gabriel;100
+LA;1;A;21278;P2009;Pensamiento político clásico;-;-;Lu;;Mi;;;;;7:05;8:25;J-A3 3304;L01369579;Hidalgo González Francisco Jaime;100
+FHC;1;I;20095;P2012;Ciudadanía y democracia;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11833;Q1001;Química;-;-;;Ma;;Ju;;;;10:35;11:55;J-A3 3201;L01021618;Aguilar Castro Liliana Mireya;100
+INAR;1;A;11759;Q1004;Laboratorio de química       ;-;-;Lu;;;;;;;17:35;20:25;J-A3 LFQ;L01474957;Hidalgo Pacheco María Guadalupe;100
+INAR;2;A;11770;Q1004;Laboratorio de química       ;-;-;;Ma;;;;;;17:35;20:25;J-A3 LFQ;L01474957;Hidalgo Pacheco María Guadalupe;100
+INAR;3;A;11771;Q1004;Laboratorio de química       ;-;-;;;;;Vi;;;17:35;20:25;J-A3 LFQ;L01474957;Hidalgo Pacheco María Guadalupe;100
+INAR;1;A;11862;Q1007;Química orgánica estructural;-;-;Lu;;Mi;;;;;7:05;8:25;J-A3 3307;L01021618;Aguilar Castro Liliana Mireya;100
+INAR;1;A;11865;Q1014;Química experimental;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 3307;L01021618;Aguilar Castro Liliana Mireya;100
+INAR;1;A;11865;Q1014;Química experimental;-;-;;;;Ju;;;;17:35;20:25;J-A3 3307;L01021618;Aguilar Castro Liliana Mireya;100
+INAR;1;I;11861;Q2000;Bioquímica;-;-;;;;;;;;:;:; ;;STAFF;
+LA;1;A;11695;RH1000;Comport orga y desarrollo  t h;-;-;;Ma;;Ju;;;;10:35;11:55;J-CIT CIF;L00289785;Franco González Leticia;100
+LA;1;A;21275;RI1004;Perspectiva internacional;-;-;;Ma;;Ju;;;;16:05;17:25;J-A3 3306;;STAFF;
+LA;1;A;16734;SI00003;Comercio electrónico;X;-;;;;;;;;:;:;J-A1 ;L01503441;Hernández Batres Jessica Sarai;1
+LA;1;A;16734;SI00003;Comercio electrónico;X;-;;;;;;;;:;:;J-A1 ;L00162750;Almaguer Flores Adriana;99
+LA;1;A;16735;SI00004;Admon electrónic neg (e-bus);X;-;;;;;;;;:;:;J-A1 ;L01408062;Barba Evia Nora Elena;1
+LA;1;A;16735;SI00004;Admon electrónic neg (e-bus);X;-;;;;;;;;:;:;J-A1 ;L00265876;García de la Paz Bertha Laura;99
+INAR;1;A;11870;TC1001;Introducción a la computación;-;-;;Ma;;Ju;;;;7:05;8:25;J-CIT CECII;L01369850;Cabrera Filomeno Javier;100
+INAR;1;I;11844;TC1003;Matemáticas discretas;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;I;11735;TC1014;Fundamentos de programación;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11746;TC1015;Fundamentos de diseño interact;-;-;;Ma;;Ju;;;;7:05;8:25;J-CIT LAB-DISEÑO;L01406546;Ramírez Mejía Alfredo Israel;100
+INAR;1;A;11739;TC1016;Organización computacional;-;-;;Ma;;Ju;;;;10:35;11:55;J-CIT LAB-COMPTO;L01182873;Barceló Alonso Grettel;100
+INAR;1;A;11869;TC1017;Sol problemas con programación;-;-;Lu;;Mi;;;;;7:05;8:25;J-CIT CECII;L01371377;Cendejas Castro Eduardo Antonio;100
+INAR;2;A;13790;TC1017;Sol problemas con programación;-;-;Lu;;Mi;;;;;10:35;11:55;J-CIT LAB-COMPTO;L01371377;Cendejas Castro Eduardo Antonio;100
+INAR;3;A;24470;TC1017;Sol problemas con programación;-;-;;Ma;;Ju;;;;7:05;8:25;J-CIT LAB-COMPTO;L01371377;Cendejas Castro Eduardo Antonio;100
+INAR;1;A;11788;TC1020;Bases de datos;-;-;;Ma;;Ju;;;;9:05;10:25;J-CIT LAB-COMPTO;L01182873;Barceló Alonso Grettel;100
+INAR;1;I;11748;TC1021;Proyecto  desarrollo de videoj;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;I;11740;TC2007;Métodos cuantit y simulación;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11774;TC2008;Sistemas operativos;-;-;Lu;;;;;;;7:05;9:55;J-CIT CIF;L00677344;Sánchez García Luis Enrique;100
+INAR;1;A;11736;TC2016;Programación orientada a objet;-;-;Lu;;Mi;;;;;9:05;10:25;J-CIT LAB-COMPTO;L01371377;Cendejas Castro Eduardo Antonio;100
+INAR;1;I;11769;TC2018;Fundamentos de redes;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;I;11737;TC2019;Métodos numéricos en ing;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11724;TC2020;Matemáticas computacionales;-;-;Lu;;Mi;;;;;12:05;13:25;J-CIT CIF;L01516187;Castillejos Fernández Heydy;100
+INAR;1;A;11758;TC2022;Interconexión de redes;-;-;;;Mi;;Vi;;;7:05;8:25;J-A3 3305;L01432971;Sauza Cervantes Héctor;100
+INAR;1;I;11778;TC2026;Desarrollo de aplicaciones web;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;I;11773;TC2027;Seguridad informática;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;I;11783;TC3011;Admón de serv de TI;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11696;TC3012;Administración de servidores;-;-;Lu;;;;;;;17:35;20:25;J-CIT SALÓN 2;L00769257;Austria Cornejo Arturo;100
+INAR;1;A;19939;TC3037;Programación avanzada;-;-;;;;;Vi;;;10:35;13:25;J-CIT CECII;L01182873;Barceló Alonso Grettel;100
+INAR;1;A;11745;TC3052;L  desarr de aplicaciones Web;-;-;;;;;Vi;;;17:35;20:25;J-CIT LAB-DISEÑO;L01182873;Barceló Alonso Grettel;35
+INAR;1;A;11745;TC3052;L  desarr de aplicaciones Web;-;-;;;;;Vi;;;17:35;20:25;J-CIT LAB-DISEÑO;L01386243;Osorio Tristán Omar Alan;65
+INAR;1;I;11754;TE1003;Electrónica;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11753;TE1012;Circuitos eléctricos;-;-;;;Mi;;Vi;;;9:05;10:25;J-A3 LRE;L01327866;Becerra Domínguez Osbaldo;100
+INAR;1;A;28652;TE2023;Microcontroladores;-;-;Lu;;Mi;;;;;10:35;11:55;J-A3 LRE;L01249417;Domínguez Ramírez Omar Arturo;100
+INAR;1;I;19937;TE3001;Microcontroladores;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11782;TI1012;Tecnologías de información neg;-;-;;Ma;;;;;;16:05;18:55;J-A3 3303;L00511337;González Hernández Mario Alain;35
+INAR;1;A;11782;TI1012;Tecnologías de información neg;-;-;;Ma;;;;;;16:05;18:55;J-A3 3303;L01265629;Ramírez Ocampo Fabiola;65
+INAR;1;I;11815;TI2002;Admón de procesos de neg;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;I;11823;TI2011;Evaluación y adm de proyectos;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;16738;TI3001;Planeación estrat de tecn inf;X;-;;;;;;;;:;:;J-A1 ;L00327239;Alanís Dávila David Angel;100
+INAR;1;I;11807;TI3009;Proy integr de tecn info elect;-;-;;;;;;;;:;:; ;;STAFF;
+INAR;1;A;11738;TI3020;Ingeniería económica;-;-;Lu;;Mi;;;;;10:35;11:55;J-CIT BIBLIO-S4;L01431890;Dorner  Anikó;100
+INAR;1;A;11698;TI3032;Sis de información empresarial;-;-;;Ma;;Ju;;;;7:05;8:25;J-A3 3304;L00739128;Medina García Samuel;100
+LA;1;A;26908;WA01100;Taller integ fin carrera DAF;-;-;;;;;Vi;;;9:05;11:55;J-A3 3102;L00289785;Franco González Leticia;100
+LA;2;A;26909;WA01100;Taller integ fin carrera DAF;-;-;;;;;Vi;;;9:05;11:55;J-A3 3201;L00602557;Ramirez Bonilla Rosario;100
+INAR;1;A;26528;WA01101;Taller integ fin carrera DIA;-;-;;;Mi;;;;;8:35;10:25;J-CIT LAB-IDIOMA;L00769257;Austria Cornejo Arturo;100
+INAR;2;A;26529;WA01101;Taller integ fin carrera DIA;-;-;;;;;;Sa;;12:05;14:55;J-A3 3303;L01117069;Franklin Uraga Juan José;100
+LEX;1;A;22637;WA1019;Preparación para el TOEFL;-;-;Lu;;Mi;Ju;;;;12:05;13:25;J-A3 3307;L01454900;Andrade Hernández Anahí;100
+LEX;2;A;22638;WA1019;Preparación para el TOEFL;-;-;Lu;;Mi;Ju;;;;13:35;14:55;J-A3 3307;L01454900;Andrade Hernández Anahí;100
+LEX;3;A;22747;WA1019;Preparación para el TOEFL;-;-;;;;;Vi;;;12:05;13:25;J-A3 3102;L01475020;Noguera Chávez Ariok Eliezer;100
+LEX;4;A;22748;WA1019;Preparación para el TOEFL;-;-;;;;;Vi;;;13:35;14:55;J-A3 3102;L01475020;Noguera Chávez Ariok Eliezer;100
+LEX;5;A;24471;WA1019;Preparación para el TOEFL;-;-;Lu;Ma;Mi;Ju;;;;12:05;13:25;J-CIT LAB-IDIOMA;L01330548;Valdés Jiménez Erika;100
+LEX;6;A;24472;WA1019;Preparación para el TOEFL;-;-;Lu;Ma;Mi;Ju;;;;13:35;14:55;J-CIT LAB-IDIOMA;L01330548;Valdés Jiménez Erika;100
+FHC;1;A;26906;WA2010;Tall inducc servi soci comunit;-;-;;;;;;Sa;;10:05;11:55;J-A3 3305;L01321133;Herrera Hernández Yuliana;100
+FHC;2;A;26907;WA2010;Tall inducc servi soci comunit;-;-;;;;;;Sa;;12:05;13:55;J-A3 3306;L01321133;Herrera Hernández Yuliana;100
