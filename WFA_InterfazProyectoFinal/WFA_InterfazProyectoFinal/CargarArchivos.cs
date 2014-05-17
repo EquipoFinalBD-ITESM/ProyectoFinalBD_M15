@@ -9,7 +9,6 @@ using System.Windows.Forms;
 using System.IO;
 using MySql.Data.MySqlClient;
 using System.Data.OleDb;
-using Excel = Microsoft.Office.Interop.Excel;
 using System.ComponentModel;
 
 namespace WFA_InterfazProyectoFinal

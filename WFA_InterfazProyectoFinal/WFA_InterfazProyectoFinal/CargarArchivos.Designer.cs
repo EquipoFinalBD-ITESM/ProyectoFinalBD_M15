@@ -40,35 +40,29 @@
             // 
             // txtArchivo1
             // 
-<<<<<<< HEAD
             this.txtArchivo1.Location = new System.Drawing.Point(59, 139);
             this.txtArchivo1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtArchivo1.Name = "txtArchivo1";
             this.txtArchivo1.ReadOnly = true;
             this.txtArchivo1.Size = new System.Drawing.Size(147, 22);
-=======
             this.txtArchivo1.Location = new System.Drawing.Point(66, 174);
             this.txtArchivo1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtArchivo1.Name = "txtArchivo1";
             this.txtArchivo1.ReadOnly = true;
             this.txtArchivo1.Size = new System.Drawing.Size(164, 26);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.txtArchivo1.TabIndex = 0;
             this.txtArchivo1.TextChanged += new System.EventHandler(this.txtArchivo1_TextChanged);
             // 
             // btnExaminarArchivo1
             // 
-<<<<<<< HEAD
             this.btnExaminarArchivo1.Location = new System.Drawing.Point(229, 138);
             this.btnExaminarArchivo1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnExaminarArchivo1.Name = "btnExaminarArchivo1";
             this.btnExaminarArchivo1.Size = new System.Drawing.Size(100, 28);
-=======
             this.btnExaminarArchivo1.Location = new System.Drawing.Point(258, 172);
             this.btnExaminarArchivo1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnExaminarArchivo1.Name = "btnExaminarArchivo1";
             this.btnExaminarArchivo1.Size = new System.Drawing.Size(112, 35);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.btnExaminarArchivo1.TabIndex = 1;
             this.btnExaminarArchivo1.Text = "Examinar";
             this.btnExaminarArchivo1.UseVisualStyleBackColor = true;
@@ -76,17 +70,15 @@
             // 
             // btnExaminarArchivo2
             // 
-<<<<<<< HEAD
             this.btnExaminarArchivo2.Location = new System.Drawing.Point(541, 139);
             this.btnExaminarArchivo2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnExaminarArchivo2.Name = "btnExaminarArchivo2";
             this.btnExaminarArchivo2.Size = new System.Drawing.Size(100, 28);
-=======
             this.btnExaminarArchivo2.Location = new System.Drawing.Point(609, 174);
             this.btnExaminarArchivo2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnExaminarArchivo2.Name = "btnExaminarArchivo2";
             this.btnExaminarArchivo2.Size = new System.Drawing.Size(112, 35);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
+
             this.btnExaminarArchivo2.TabIndex = 3;
             this.btnExaminarArchivo2.Text = "Examinar";
             this.btnExaminarArchivo2.UseVisualStyleBackColor = true;
@@ -94,38 +86,32 @@
             // 
             // txtArchivo2
             // 
-<<<<<<< HEAD
             this.txtArchivo2.Location = new System.Drawing.Point(371, 140);
             this.txtArchivo2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtArchivo2.Name = "txtArchivo2";
             this.txtArchivo2.ReadOnly = true;
             this.txtArchivo2.ShortcutsEnabled = false;
             this.txtArchivo2.Size = new System.Drawing.Size(147, 22);
-=======
             this.txtArchivo2.Location = new System.Drawing.Point(417, 175);
             this.txtArchivo2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtArchivo2.Name = "txtArchivo2";
             this.txtArchivo2.ReadOnly = true;
             this.txtArchivo2.ShortcutsEnabled = false;
             this.txtArchivo2.Size = new System.Drawing.Size(164, 26);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.txtArchivo2.TabIndex = 2;
             this.txtArchivo2.TextChanged += new System.EventHandler(this.txtArchivo2_TextChanged);
             // 
             // btnSubir
             // 
             this.btnSubir.Enabled = false;
-<<<<<<< HEAD
             this.btnSubir.Location = new System.Drawing.Point(297, 241);
             this.btnSubir.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSubir.Name = "btnSubir";
             this.btnSubir.Size = new System.Drawing.Size(115, 47);
-=======
             this.btnSubir.Location = new System.Drawing.Point(334, 302);
             this.btnSubir.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnSubir.Name = "btnSubir";
             this.btnSubir.Size = new System.Drawing.Size(129, 58);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.btnSubir.TabIndex = 4;
             this.btnSubir.Text = "Subir";
             this.btnSubir.UseVisualStyleBackColor = true;
@@ -134,17 +120,14 @@
             // btnBuscarHorarios1
             // 
             this.btnBuscarHorarios1.Enabled = false;
-<<<<<<< HEAD
             this.btnBuscarHorarios1.Location = new System.Drawing.Point(267, 311);
             this.btnBuscarHorarios1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnBuscarHorarios1.Name = "btnBuscarHorarios1";
             this.btnBuscarHorarios1.Size = new System.Drawing.Size(168, 47);
-=======
             this.btnBuscarHorarios1.Location = new System.Drawing.Point(300, 389);
             this.btnBuscarHorarios1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnBuscarHorarios1.Name = "btnBuscarHorarios1";
             this.btnBuscarHorarios1.Size = new System.Drawing.Size(189, 58);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.btnBuscarHorarios1.TabIndex = 5;
             this.btnBuscarHorarios1.Text = "Buscar Horarios";
             this.btnBuscarHorarios1.UseVisualStyleBackColor = true;
@@ -153,17 +136,14 @@
             // label1
             // 
             this.label1.AutoSize = true;
-<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(55, 66);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(243, 51);
-=======
             this.label1.Location = new System.Drawing.Point(62, 83);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(268, 60);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.label1.TabIndex = 6;
             this.label1.Text = "Espacio para subir archivo donde se \r\nencuentre la relación de los horarios \r\n   " +
                 "                de los alumnos";
@@ -171,33 +151,27 @@
             // label2
             // 
             this.label2.AutoSize = true;
-<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(389, 66);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(255, 34);
-=======
             this.label2.Location = new System.Drawing.Point(438, 83);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(282, 40);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.label2.TabIndex = 7;
             this.label2.Text = "Espacio para subir archivo donde se \r\nencuentre la relación de los profesores";
             // 
             // CargarArchivos
             // 
-<<<<<<< HEAD
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(724, 460);
-=======
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(814, 575);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnBuscarHorarios1);
@@ -206,11 +180,8 @@
             this.Controls.Add(this.txtArchivo2);
             this.Controls.Add(this.btnExaminarArchivo1);
             this.Controls.Add(this.txtArchivo1);
-<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
             this.Name = "CargarArchivos";
             this.Text = "CargarArchivos";
             this.ResumeLayout(false);
