@@ -181,7 +181,6 @@ namespace WFA_InterfazProyectoFinal
 
         private void btnExaminarArchivo2_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
             OpenFileDialog openFileDialogCal = new OpenFileDialog();
 
             if (openFileDialogCal.ShowDialog() == DialogResult.OK)
@@ -282,9 +281,6 @@ namespace WFA_InterfazProyectoFinal
 
                 connection.Clone();
             }
-=======
-
->>>>>>> 411c7a6cf2d81178e1b5f1336ec64e48766d1a42
         }
     }
 }
